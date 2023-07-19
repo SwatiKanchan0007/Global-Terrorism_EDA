@@ -6,9 +6,6 @@ This project focuses on performing Exploratory Data Analysis (EDA) using Python 
 ### Purpose
 The primary goal of this analysis is to gain insights into the patterns and trends of terrorism over time. By visualizing the data, we aim to identify significant changes and highlight specific regions or countries affected by terrorism.
 
-### Data Source
-The dataset used in this analysis is sourced from [Global Terrorism Database (GTD)](https://www.start.umd.edu/gtd/). The GTD is an open-source database that records terrorist attacks worldwide, providing comprehensive information on the attack date, location, perpetrators, and casualties.
-
 ### Methodology
 1. Data Preprocessing: The raw GTD data is cleaned and prepared for analysis. Missing values, inconsistent entries, and irrelevant columns are handled to ensure accurate insights.
 
