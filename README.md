@@ -1,5 +1,4 @@
-# Global-Terrorism_EDA
-## Exploratory Data Analysis (EDA) of Terrorism Worldwide and in India
+# Exploratory Data Analysis (EDA) of Terrorism Worldwide and in India
 
 This project focuses on performing Exploratory Data Analysis (EDA) using Python libraries to showcase the gradual trend of terrorism both globally and specifically in India.
 
